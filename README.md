@@ -44,6 +44,16 @@ The dashboard contains two pages:
 
 Interactive filters allow users to explore planning areas and population ranges.
 
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](Screenshot/Executive%20overview.png)
+
+### Detailed Area Analysis
+
+![Detailed Area Analysis](Screenshot/Detailed%20area%20analysis.png)
+
 ## Methodology
 
 The detailed analysis includes planning areas with at least 5,000 residents.
