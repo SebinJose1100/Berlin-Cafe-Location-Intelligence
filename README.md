@@ -48,7 +48,7 @@ Interactive filters allow users to explore planning areas and population ranges.
 
 ### Executive Overview
 
-![Executive Overview](Screenshot/Executive%20overview.png)
+![Executive Overview](Screenshot/Executive%20Overview.png)
 
 ### Detailed Area Analysis
 
